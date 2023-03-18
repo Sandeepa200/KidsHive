@@ -36,7 +36,7 @@ session_start();
         
         <div class="container">
             <div class="topic">
-                <h1>dashboard</h1>
+                <h1>Dashboard</h1>
                 <h2>Hello, <?php echo $user_data['first_name']," ",$user_data['last_name'];?></h2>
                 
             </div>
