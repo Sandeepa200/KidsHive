@@ -48,39 +48,39 @@
             <div class="cardpack">
                 <div class="card">
                     <div class="card-image">
-                        <a href="https://www.youtube.com/embed/jWQRCOrXxgE" target="player" onclick="openPlayer()">
+                        <a href="https://www.youtube.com/embed/TzVZweQVato" target="player" onclick="openPlayer()">
                             <img src="media/studing.jpg" alt="boy studing with computer">
                             <div class="overlayVideo">
                                 <i class="fa-regular fa-circle-play" ></i>
-                                <p>10.00</p>
+                                <p>1:26</p>
                             </div>
                         </a>
                     </div>
-                    <h3>video name</h3>
+                    <h3>Shapes</h3>
                 </div>
                 <div class="card">
                     <div class="card-image" >
-                        <a href="https://www.youtube.com/embed/yY3wc58yo2A" target="player" onclick="openPlayer()"> 
+                        <a href="https://www.youtube.com/embed/nvgFQ2BQPJ0" target="player" onclick="openPlayer()"> 
                             <img src="media/studing.jpg" alt="boy studing with computer">
                             <div class="overlayVideo">
                                 <i class="fa-regular fa-circle-play" ></i>
-                                <p>10.00</p>
+                                <p>1:23</p>
                             </div>
                         </a>
                     </div>
-                    <h3>video name</h3>
+                    <h3>Alphabet</h3>
                 </div>
                 <div class="card">
                     <div class="card-image">
-                        <a href="https://www.youtube.com/embed/srYV0c22jZA" target="player" onclick="openPlayer()">
+                        <a href="https://www.youtube.com/embed/LgmPVi9Wngc" target="player" onclick="openPlayer()">
                             <img src="media/studing.jpg" alt="boy studing with computer">
                             <div class="overlayVideo">
                                 <i class="fa-regular fa-circle-play" ></i>
-                                <p>10.00</p>
+                                <p> 2:11</p>
                             </div>
                         </a>
                     </div>
-                    <h3>video name</h3>
+                    <h3>Colours</h3>
                 </div>
                 <div class="card">
                     <div class="card-image">
