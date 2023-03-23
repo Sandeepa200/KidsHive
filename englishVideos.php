@@ -186,15 +186,15 @@
                 </div>
                 <div class="card">
                     <div class="card-image">
-                        <a href="lessons.php">
+                        <a href="https://www.youtube.com/embed/ybt2jhCQ3lA">
                             <img src="media/studing.jpg" alt="boy studing with computer">
                             <div class="overlayVideo">
                                 <i class="fa-regular fa-circle-play" ></i>
-                                <p>10.00</p>
+                                <p> 4:38</p>
                             </div>
                         </a>
                     </div>
-                    <h3>video name</h3>
+                    <h3>Colours</h3>
                 </div>
                 <div class="card">
                     <div class="card-image">
@@ -390,15 +390,15 @@
                 </div>
                 <div class="card">
                     <div class="card-image">
-                        <a href="lessons.php">
+                        <a href="https://www.youtube.com/embed/8irSFvoyLHQ" target="player" onclick="openPlayer()">
                             <img src="media/studing.jpg" alt="boy studing with computer">
                             <div class="overlayVideo">
                                 <i class="fa-regular fa-circle-play" ></i>
-                                <p>10.00</p>
+                                <p>37:42</p>
                             </div>
                         </a>
                     </div>
-                    <h3>video name</h3>
+                    <h3>Dialogues</h3>
                 </div>
                 <div class="card">
                     <div class="card-image">
