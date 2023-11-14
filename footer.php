@@ -5,10 +5,10 @@
                 <p class="description">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum iure perspiciatis, sapiente voluptatum asperiores maiores quis soluta eum facilis, molestias voluptate nemo eaque nihil? Numquam nisi hic culpa soluta corrupti.</p>
                 <div class="social">
                     <ul>
-                        <li><a href="#"><i class="fa-brands fa-facebook"></i></a></li>
-                        <li><a href="#"><i class="fa-brands fa-github"></i></a></li>
-                        <li><a href="#"><i class="fa-brands fa-linkedin-in"></i></a></li>
-                        <li><a href="#"><i class="fa-brands fa-twitter"></i></a></li>
+                        <li><a href="https://web.facebook.com"><i class="fa-brands fa-facebook"></i></a></li>
+                        <li><a href="https://github.com/orgs/https-github-com-Sandeepa200/repositories"><i class="fa-brands fa-github"></i></a></li>
+                        <li><a href="https://linkedin.com"><i class="fa-brands fa-linkedin-in"></i></a></li>
+                        <li><a href="https://twitter.com"><i class="fa-brands fa-twitter"></i></a></li>
                     </ul>
                 </div>
             </div>
