@@ -26,13 +26,13 @@ nav ul li a{
 
 /* Lessons Selection*/
 .cardpack{
-    min-height: 71vh;  
+    min-height: 60vh;  
     margin-top: 10px;
 }
 
 .card-1, .card-2, .card-3{
     width: 25%;
-    height: 45vh;
+    height: 30%;
     padding: 20px 0;
     margin: 1rem 1rem 4rem 1rem;
     border-radius: 50px;

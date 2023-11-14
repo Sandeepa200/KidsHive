@@ -36,7 +36,7 @@
         <!--Subject navigation-->
         <div class="cardpack">
             <div class="card-1">
-                <h3>Maths</h3>
+                <h3>Maths<a href="mathsVideos"></h3>
                 <ul>
                     <li><a href="mathsVideos.php#preSchool">Pre School</a></li>
                     <li><a href="mathsVideos.php#grade1">Grade 1</a></li>
